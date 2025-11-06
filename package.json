@@ -1,0 +1,16 @@
+{
+  "name": "he-thong-thiet-ke-chuan",
+  "version": "1.0.0",
+  "description": "Hệ thống thiết kế chuẩn cho UI.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["design-system", "ui-components"],
+  "author": "", 
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^16.8.0",
+    "prop-types": "^15.7.2"
+  }
+}
